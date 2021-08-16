@@ -1,0 +1,29 @@
+// Place all the styles related to the Questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+body {
+  color: gold;
+  background-color: black;
+  align-items: center;
+}
+
+.btn {
+  font-weight: bolder;
+  border-radius: 5px;
+  background-color: gold;
+  border-color: gold;
+  box-shadow: 1px 1px 1px white;
+}
+
+.btn :hover {
+  background-color: burlywood;
+
+}
+
+.input {
+  color: black;
+  font-weight: bolder;
+  background-color: gold;
+  opacity: 0.7;
+  box-shadow: 1px 1px 1px white;
+}
